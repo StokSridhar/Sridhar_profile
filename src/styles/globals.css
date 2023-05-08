@@ -83,12 +83,7 @@ body {
 
 body {
   color: #6c757d;
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background:  #fff;
     font-family: Muli !important;
 
 }
@@ -246,5 +241,5 @@ ul.infouser li { width: 100%; padding: 10px 0;}
   color: #fff;
   padding: 10px;
 }
-body { font-size: 14px; line-height: 25px;}
+body { font-size: 14px; line-height: 25px;  background:  #fff;}
 }
